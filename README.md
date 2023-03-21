@@ -75,6 +75,9 @@ This repository is heavily based on [CLIP](https://github.com/openai/CLIP), [CLI
 For training we used the data of [COCO dataset](https://cocodataset.org/#home). 
 
 
+This code has been reused in order to apply a reinforcement learning technique called 'Self-critical learning': https://arxiv.org/abs/1612.00563
+
+
 
 
 
